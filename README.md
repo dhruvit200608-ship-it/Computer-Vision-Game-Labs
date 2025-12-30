@@ -1,4 +1,4 @@
-# Computer Visione3e3 Labs
+# Computer Vision Labs
 
 This repository contains a suite of interactive applications exploring **Human-Computer Interaction (HCI)** through real-time Computer Vision. By leveraging hand-tracking landmarks, these projects translate physical movement into digital commands.
 
